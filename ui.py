@@ -1,5 +1,5 @@
 import bpy
-import easybpy
+from . import easybpy
 import bpy.utils.previews
 import os
 

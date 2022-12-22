@@ -19,7 +19,7 @@ bl_info = {
     "author": "SmittyWerbenHD",
     "description": "Fast eevee material setup for daz characters",
     "blender": (3, 3, 0),
-    "version": (0, 0, 1),
+    "version": (0, 0, 2),
     "location": "",
     "warning": "",
     "category": "Generic"

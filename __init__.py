@@ -20,9 +20,10 @@ bl_info = {
     "description": "Fast eevee material setup for daz characters",
     "blender": (3, 3, 0),
     "version": (0, 0, 2),
-    "location": "",
+    "location": "Properties > Material Properties > Material Specials",
     "warning": "",
-    "category": "Generic"
+    "category": "Material",
+    "tracker_url": "https://github.com/SmittyWerbenJJ/eevee-for-daz/issues"
 }
 
 # ---------------------------------------------
